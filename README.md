@@ -1,9 +1,9 @@
 # Exploratory-Data-Analysis-Online-retail-dataset-II
-Overview
+# Overview
 
 This dataset contains transactional data of an online retail store over two financial years: 2009-2010 and 2010-2011. It is ideal for data analysis, customer segmentation, and predictive modeling tasks in retail analytics.
 
-Dataset Description
+# Dataset Description
 
 The dataset consists of two Excel sheets:
 
@@ -11,7 +11,7 @@ Year 2009-2010 – Transactions recorded during the financial year 2009-2010.
 
 Year 2010-2011 – Transactions recorded during the financial year 2010-2011.
 
-Each record typically includes:
+# Each record typically includes:
 
 InvoiceNo: Invoice number (unique transaction ID).
 
@@ -29,7 +29,7 @@ CustomerID: Unique customer identifier.
 
 Country: Country of the customer.
 
-Source
+# Source
 
 This dataset is sourced from the UCI Machine Learning Repository
  and contains real transactional data from a UK-based online retail business.
@@ -46,6 +46,6 @@ Time-series forecasting of sales
 
 Anomaly detection in transactions
 
-File Details
+# File Details
 
 online_retail_II.xlsx: Contains the two sheets with raw transactional data.
